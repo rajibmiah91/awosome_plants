@@ -1,0 +1,16 @@
+{
+    "products": [
+        {
+            "name": "Aloevera",
+            "price": "50.0",
+            "imageUrl": "assets/images/images1.jpg",
+            "desc": "Aloe vera, or Aloe barbadensis, is a thick, short-stemmed plant that stores water in its leaves. It is best known for treating skin injuries, but it also has several other uses that could potentially benefit health"
+        },
+        {
+            "name": "Aloevera",
+            "price": "55.0",
+            "imageUrl": "assets/images/images2.jpg",
+            "desc": "Aloe vera, or Aloe barbadensis, is a thick, short-stemmed plant that stores water in its leaves. It is best known for treating skin injuries, but it also has several other uses that could potentially benefit health"
+        }
+    ]
+}
